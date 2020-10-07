@@ -48,7 +48,7 @@ namespace CbnScrapper
             chromeOptions.AddUserProfilePreference("intl.accept_languages", "nl");
             chromeOptions.AddUserProfilePreference("disable-popup-blocking", "false");
             chromeOptions.AddUserProfilePreference(preferenceName: "download.prompt_for_download", "false");
-            driver = new ChromeDriver(@"\\Mac\Home\Movies\chromedriver_win32", chromeOptions);
+            driver = new ChromeDriver(browserpath, chromeOptions);
             //IWebDriver driver = new ChromeDriver(@"\\Mac\Home\Movies\chromedriver_win32", chromeOptions);
             driver.Url = url;
             driver.Manage().Window.Maximize();
