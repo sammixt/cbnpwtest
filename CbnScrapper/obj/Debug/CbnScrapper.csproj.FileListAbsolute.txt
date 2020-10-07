@@ -1,0 +1,13 @@
+C:\Users\esc\source\repos\CbnScrapper\CbnScrapper\bin\Debug\CbnScrapper.exe.config
+C:\Users\esc\source\repos\CbnScrapper\CbnScrapper\bin\Debug\CbnScrapper.exe
+C:\Users\esc\source\repos\CbnScrapper\CbnScrapper\bin\Debug\CbnScrapper.pdb
+C:\Users\esc\source\repos\CbnScrapper\CbnScrapper\bin\Debug\WebDriver.dll
+C:\Users\esc\source\repos\CbnScrapper\CbnScrapper\bin\Debug\WebDriver.xml
+C:\Users\esc\source\repos\CbnScrapper\CbnScrapper\obj\Debug\CbnScrapper.csprojAssemblyReference.cache
+C:\Users\esc\source\repos\CbnScrapper\CbnScrapper\obj\Debug\CbnScrapper.csproj.CopyComplete
+C:\Users\esc\source\repos\CbnScrapper\CbnScrapper\obj\Debug\CbnScrapper.exe
+C:\Users\esc\source\repos\CbnScrapper\CbnScrapper\obj\Debug\CbnScrapper.pdb
+C:\Users\esc\source\repos\CbnScrapper\CbnScrapper\bin\Debug\EPPlus.dll
+C:\Users\esc\source\repos\CbnScrapper\CbnScrapper\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\esc\source\repos\CbnScrapper\CbnScrapper\bin\Debug\EPPlus.xml
+C:\Users\esc\source\repos\CbnScrapper\CbnScrapper\bin\Debug\ConsoleCommon.dll
